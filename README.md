@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VaibhavSavariya
-- 👀 I’m interested in front-end web development  
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with you! My skills and I would be honored to transfer my knowledge and experience into any of your projects.
 - 📫 you can contact me by email vaibhavsavariya4@gmail.com
 
